@@ -1,0 +1,45 @@
+#bar{
+    width: 100%;
+    background-color: #aa80f3;
+    color: white;
+    text-align: center;
+    padding: 10px 0px;
+}
+a{
+        text-decoration: none;
+        color: white;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 10px;
+
+}
+body{
+    font-family: Arial, sans-serif;
+}
+#middle{
+    text-align: center;
+}
+#button{
+    color: white;
+    background-color: #aa80f3;
+    padding: 15px 32px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+}
+#copyright{
+    width: 100%;
+    background-color: #aa80f3;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
